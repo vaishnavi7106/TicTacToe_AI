@@ -7,4 +7,4 @@ With this setup, users can play against each other in **2-player mode** or chall
 
  Designed with a dark layout, purple highlights, and smooth UI transitions for an engaging play every time.
 
-👉 [Live Website:](https://vaishnavi7106.github.io/PRODIGY_WD_02/) https://vaishnavi7106.github.io/PRODIGY_WD_02/
+👉 [Live Website:](https://vaishnavi7106.github.io/PRODIGY_WD_02/) https://vaishnavi7106.github.io/PRODIGY_WD_03/
